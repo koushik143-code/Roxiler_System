@@ -1,0 +1,26 @@
+.commonHeading{
+    text-align: center;
+    margin: 1rem auto; 
+    color: #86740a;
+    font-size: 3rem 2rem 2rem 2rem;
+    text-shadow: 1px 1px rgba(88, 8, 218, 0.692);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.dataStatistics{
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+    background-color: #c8e4e4;
+    padding: 1rem; 
+    align-items: center;
+}
+
+.textStatistics {
+    font-size: 2rem 1.5rem 1.5rem 1.5rem;
+    font-weight: bold;
+    color: teal; 
+}

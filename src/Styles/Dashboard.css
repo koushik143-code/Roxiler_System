@@ -1,0 +1,50 @@
+#heading{
+    text-align: center;
+    margin: 1rem auto; 
+    color: #208080;
+    font-size: 4rem 3.5rem 3.5rem 2.5rem;
+    text-shadow: 1px 1px rgba(126, 241, 18, 0.692);
+    margin-bottom: 1rem;
+}
+
+
+#filterBox{
+    display: flex;
+    /* flex-direction: "row","column","column","column"; */
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    width: 80%;
+    margin: auto; /* Center horizontally */
+    margin-top: 0.5rem;
+}
+
+#buttonBox{
+    display: flex;
+    flex-direction: "row";
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    width: 80%;
+    margin: auto; /* Center horizontally */
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    color: #208080;
+}
+
+option {
+    width: 80%;
+}
+
+
+
+#table{
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+}
+
+#imageCss{
+    width: 3.5rem;
+    height: 3.5rem;
+}
